@@ -1,2 +1,1 @@
-ECHO est  activado.
 Prueba para merge.
