@@ -1,1 +1,2 @@
-Esto es un fichero de prueba modificado
+Esto es un fichero de prueba conflicto
+
