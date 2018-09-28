@@ -1,2 +1,1 @@
-Esto es un fichero de prueba conflicto
-Testing
+Esto es un fichero de prueba conflicto 2
